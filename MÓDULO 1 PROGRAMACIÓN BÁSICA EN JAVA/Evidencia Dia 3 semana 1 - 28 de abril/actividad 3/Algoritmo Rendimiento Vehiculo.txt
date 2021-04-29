@@ -1,0 +1,29 @@
+variables
+
+litros float; // capacidad estanque
+kilometraje inicial float;
+kilometraje final float;
+
+calculo = (kilometraje final - kilometraje inicial)/litros;
+
+resultado final= calculo;
+
+algoritmo
+
+variables litros de estanque,kilometraje inicial , kilometraje final 
+
+Entrada Litros,kilometros inicial, kilometro final
+
+Proceso 
+Verificar capacidad de estanque del automovil
+verificar kilometraje inicial al llenar el estanque
+proceder a circulacion
+verificar kilometraje final al terminar la aguja en la reserva
+proceder al calculo
+restar el kilometraje final - kilometraje inicial para obtener cuanto circulaste
+dividir por la cantidad de litros que corresponda al automovil.
+
+Salida Rendimiento del automovil por Litro
+
+
+
