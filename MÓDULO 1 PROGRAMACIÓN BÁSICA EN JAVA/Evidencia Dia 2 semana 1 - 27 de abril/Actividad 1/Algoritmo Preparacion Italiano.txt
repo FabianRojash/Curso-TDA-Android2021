@@ -1,0 +1,26 @@
+Entradas Horno,Pan,Tomate,Mayo,Ketchup,mostaza,vienesa,palta,aceite,sal,limon.
+
+Procesos Calentar el pan en el horno,agregarle la vienesa,agregar tomate,agregar palta,
+agregar condimentos a eleccion(mayo,ketchup,mostaza).
+
+Salida Un italiano!
+
+Inicio
+Prender el horno
+buscar el pan 
+Calentar el pan
+cocinar la vienesa
+buscar la palta
+preparar la palta(aceite,sal,tomate)
+buscar el tomate
+preparar el tomate(sal,aceite)
+buscar la mayonesa,ketchup,mostaza a eleccion
+partir el pan
+meter al pan la vienesa
+echarle el tomate
+echarle la palta
+echarle condimentos a eleccion
+Fin
+
+
+

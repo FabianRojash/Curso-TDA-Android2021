@@ -1,0 +1,48 @@
+Entrada Gata Hidraulica ,Llave cruz, Rueda Emergencia, chaleco reflectante
+
+Proceso
+Verificar Estado Herramientas y si estan
+Verificar estado rueda de emergencia.
+activr luces de emergencia
+Tomar Gata hidraulica
+Ubicar en rueda siniestrada
+ubicar gata hidraulica en chasis del vehiculo
+poner topes en las ruedas para evitar movimientos del auto.
+poner auto en 1era marcha y freno de mano
+accionar gata levemente para levantar el auto un poco del suelo
+soltar pernos con llave cruz
+seguir accionando gata para levantar auto a altura deseada
+sacar pernos con llave cruz
+sacar rueda
+Tomar Rueda de emergencia
+poner rueda de emergencia
+Poner rueda a reparar en lugar seguro
+poner pernos
+apretar pernos
+bajar automovil
+Apagar luces de emergencia.
+retirar topes y sacar gata.
+
+Salida Rueda Cambiada
+
+Inicio 
+
+Tomar Gata hidraulica
+Ubicar en rueda siniestrada
+ubicar gata hidraulica en chasis del vehiculo
+poner topes en las ruedas para evitar movimientos del auto.
+poner auto en 1era marcha y freno de mano
+accionar gata levemente para levantar el auto un poco del suelo
+soltar pernos con llave cruz
+seguir accionando gata para levantar auto a altura deseada
+sacar pernos con llave cruz
+sacar rueda
+Tomar Rueda de emergencia
+poner rueda de emergencia
+Poner rueda a reparar en lugar seguro
+poner pernos
+apretar pernos
+bajar automovil
+retirar topes y sacar gata.
+
+Fin
