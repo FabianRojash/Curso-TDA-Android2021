@@ -1,0 +1,35 @@
+conjuntos servel
+
+votantes string
+votos
+candidatos string
+lugar de votación string
+vocal de mesa string
+inspector string
+numero de mesa string
+region string
+comuna string
+
+Conjuntos bancos
+
+cliente string
+empleado string
+cuenta int
+productos string
+sucursal string
+capital int
+
+conjuntos instagram
+
+instagram 1
+
+cuenta de usuario string
+comentario string
+reaccion string
+historia
+publicación
+
+instagram 2
+cuenta de usuario
+multimedia
+entorno grafico

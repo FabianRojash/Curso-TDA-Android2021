@@ -1,0 +1,20 @@
+notas float;
+cantidad de notas int;
+Nota minima = 3.95;
+
+promedio = notas/cantidad de notas
+if promedio >= nota minima
+  Alumno aprobado;
+Else 
+ Alumno Reprobado
+
+entrada: Notas,cantidad de notas,nota minima
+proceso
+sumar notas obtenidas por el alumno
+dividir por la cantidad de notas del ramo
+comparar con nota minima de aprobacion
+
+salida
+Alumno Aprobado
+Alumno Reprobado
+

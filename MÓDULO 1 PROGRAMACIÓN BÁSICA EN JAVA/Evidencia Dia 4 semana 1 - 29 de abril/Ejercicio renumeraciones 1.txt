@@ -1,0 +1,19 @@
+variables:
+remuneración_año:lista
+remuneración_año_anterior:lista
+suma_remuneraciones_año: float
+suma_remuneraciones_año_anterior: float
+promedio_rem_año: float
+promedio_rem_año_anterior: float
+comparación: float
+resultado: string
+porcentaje:constante
+
+procesos
+obtener la suma de remuneraciones del año
+obtener la suma de remuneraciones año anterior
+calcular promedio remuneraciones del año dividiendo suma_remuneraciones_año por 6
+calcular promedio remuneraciones del año dividiendo suma_remuneraciones_año_anterior por 6
+verificar si el promedio de remuneraciones del año es 20% inferior al año anterior
+En caso que si Resultado=Recibe bono, en caso contrario Resultado= No recibe Bono
+salida: resultado
